@@ -3,7 +3,13 @@ import random
 import time
 
 # Liste de prénoms aléatoires
-first_names = ["Alice", "Bob", "Charlie", "David", "Eva", "Fiona", "George", "Hannah", "Ivy", "Jack"]
+first_names = [
+    "Alice", "Bob", "Charlie", "David", "Eva", "Fiona", "George", "Hannah", "Ivy", "Jack",
+    "Katherine", "Liam", "Mia", "Noah", "Olivia", "Paul", "Quinn", "Rachel", "Samuel", "Tina",
+    "Uma", "Victor", "Wendy", "Xander", "Yara", "Zoe", "Aiden", "Bella", "Cameron", "Daniel",
+    "Ella", "Finn", "Grace", "Henry", "Isla", "Jake", "Kylie", "Leo", "Mason", "Nina",
+    "Oscar", "Piper", "Quincy", "Ryan", "Sophie", "Thomas", "Ursula", "Violet", "Wyatt", "Zara"
+]
 
 def generate_random_name():
     # Génère un nom aléatoire à partir de la liste de prénoms
