@@ -15,6 +15,14 @@ Un script Python simple et efficace qui permet de faire rejoindre automatiquemen
 
 ---
 
+## 💬 Rejoins notre communauté
+
+Nous avons une communauté active de développeurs sur **Discord** ! Rejoins-nous pour discuter, collaborer, et poser des questions sur le projet ou d'autres sujets liés au développement.
+
+[![Discord](https://img.shields.io/badge/Discord-Join%20Us!-blue?style=for-the-badge&logo=discord)](https://discord.gg/u3NYchBSvd)
+
+---
+
 ## ⚙️ Installation
 
 ### Prérequis
